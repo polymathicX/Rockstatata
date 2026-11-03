@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="22" viewBox="0 0 1000 22">
+  <defs>
+    <linearGradient id="rainbow" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#ff6bcb"/><stop offset=".25" stop-color="#a78bfa"/><stop offset=".5" stop-color="#22d3ee"/><stop offset=".75" stop-color="#34d399"/><stop offset="1" stop-color="#fbbf24"/></linearGradient>
+  </defs>
+  <path d="M0 11H1000" stroke="url(#rainbow)" stroke-width="2"/>
+  <g fill="url(#rainbow)"><path d="m500 2 3 6 7 3-7 3-3 6-3-6-7-3 7-3Z"/></g>
+</svg>
