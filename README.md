@@ -4,12 +4,12 @@
 
 <p align="center">
   <a href="https://portfolio-v2-sarwad.vercel.app/">
-    <img src="assets/hello.svg" width="100%" alt="Hey, I'm Sarwad Hasan Siddiqui! AI researcher, GPU explorer, builder, and forever learner." />
+    <img src="assets/hello.svg" width="100%" alt="Sarwad Hasan Siddiqui — AI systems researcher and engineer" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://portfolio-v2-sarwad.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore_my_worlds-22d3ee?style=for-the-badge&labelColor=18122b" alt="Explore my portfolio" /></a>
+  <a href="https://portfolio-v2-sarwad.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-About_my_work-22d3ee?style=for-the-badge&labelColor=18122b" alt="Visit my portfolio" /></a>
   <a href="https://linkedin.com/in/sarwad-hasan-siddiqui"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-c084fc?style=for-the-badge&labelColor=18122b" alt="Connect on LinkedIn" /></a>
   <a href="https://scholar.google.com/citations?user=l_J2QaYAAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-Research-34d399?style=for-the-badge&labelColor=18122b" alt="Research on Google Scholar" /></a>
   <a href="mailto:sarwad015@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-fbbf24?style=for-the-badge&labelColor=18122b" alt="Email Sarwad" /></a>
@@ -28,61 +28,63 @@
 
 <img src="assets/spectrum.svg" width="100%" alt="" />
 
-## 👋 Hey, I'm Sarwad.
+## About me
 
-I like taking a difficult idea and turning it into something I can run, measure, and reproduce. I started with apps and full-stack development; these days, my curiosity keeps pulling me deeper into **GPU computing, efficient transformers, and computer vision**.
+I'm a **CSE undergraduate at KUET**, focused on **GPU computing, efficient AI, and computer vision**. I work with **Kent State University's ATR Lab as an unofficial international research intern**, under Prof. Jong-Hoon Kim, and as a **Software Engineer at Logarithm Studio**.
 
-I'm pursuing my **B.Sc. in CSE at Khulna University of Engineering & Technology** (2023–2027). Alongside that, I work with **Kent State University's ATR Lab as an unofficial international research intern**, collaborating under Prof. Jong-Hoon Kim, and build AI-powered products as a **Software Engineer at Logarithm Studio**.
+I care about research that can be measured and reproduced: smaller models, faster computation, and systems that hold up outside a notebook. My long-term direction is **space technology and exploration**; I'm also part of **Team Durbar, KUET's Mars rover team**.
 
-The long-term pull is **space technology and exploration**. For now, that shows up in GPU experiments, NASA-data projects, a solar system built from scratch, and being part of **Team Durbar, KUET's Mars rover team**.
+## Research & publications
 
-> The question I keep coming back to: how do we make intelligent systems practical to run?
+<p>
+  <img src="https://img.shields.io/badge/Published-2-34d399?style=for-the-badge&labelColor=18122b" alt="2 published papers" />
+  <img src="https://img.shields.io/badge/Under_review-2-a78bfa?style=for-the-badge&labelColor=18122b" alt="2 submissions under review" />
+  <img src="https://img.shields.io/badge/Poster-1-22d3ee?style=for-the-badge&labelColor=18122b" alt="1 poster paper" />
+</p>
 
-## 🧪 Currently cooking
+### Selected publications
 
-- ⚡ **GPU & efficient AI:** CUDA, memory hierarchies, sparse computation, model compression, and LoRA / QLoRA.
-- 🎭 **ICASSP 2027 FLAG Challenge:** cross-lingual face–voice verification, from a faithful FOP baseline reproduction to improvements backed by parity checks.
-- 🔎 **Vision Transformer explainability:** extending F2HF's FFN-weighted attention-head filtering toward a journal paper.
-- 📈 **DriftRisk-LoRA:** my undergraduate thesis on drift-aware financial risk, versioned market data, and macro-text.
+**[Learning-Driven Layered Knowledge Construction with Structured Fine-Tuning and Human-in-the-Loop Reasoning for Multi-Robot SAR](https://ieeexplore.ieee.org/document/11714938/)**<br />
+*IEEE RO-MAN 2026 · Co-author · Published*
 
-Some research code is private. I write about the work on my [portfolio](https://portfolio-v2-sarwad.vercel.app/#research) and [journal](https://portfolio-v2-sarwad.vercel.app/blog).
+Parameter-efficient fine-tuning, layered local/global reasoning, and human feedback for knowledge sharing in multi-robot search and rescue.
 
-## 🚀 Things I've launched into orbit
+**[Medora: A Consent-Aware, AI-Native Bilingual Platform for Healthcare Management and Consultation](https://scholar.google.com/citations?user=l_J2QaYAAAAJ&hl=en)**<br />
+*Journal · 2026 · Published*
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/polymathicX/Voyager-2"><img src="assets/projects/voyager-2.webp" width="100%" alt="Voyager-2 solar system explorer preview" /></a>
-      <h3><a href="https://github.com/polymathicX/Voyager-2">🪐 Voyager-2</a></h3>
-      <p>A solar system from scratch: 26 textured bodies, NASA/JPL trajectories, and Voyager 2's journey out to the heliopause. Double-precision floating origin, shadow maps, and an optional ray-traced view.</p>
-      <p><sub>C++20 · OpenGL · GLSL · NASA JPL Horizons</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/CSE-3200-System-Project/Medora"><img src="assets/projects/medora.webp" width="100%" alt="Medora bilingual healthcare platform preview" /></a>
-      <h3><a href="https://github.com/CSE-3200-System-Project/Medora">🩺 Medora</a></h3>
-      <p>Bilingual healthcare software for Bangladesh. Patient-held records, scoped consent, source-linked AI summaries, and human-reviewed clinical drafts, with a deterministic policy boundary around AI.</p>
-      <p><sub>Next.js · FastAPI · PostgreSQL · Supabase · LLMs</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/polymathicX/Dhara"><img src="assets/projects/dhara.webp" width="100%" alt="Dhara Bangla legal retrieval project preview" /></a>
-      <h3><a href="https://github.com/polymathicX/Dhara">⚖️ Dhara</a></h3>
-      <p>From a plain-Bangla question to the exact law section. Retrieval across 39,484 chunks from 1,227 Acts, studying the gap between everyday language and formal legal text.</p>
-      <p><sub>Python · PyTorch · BGE-m3 · LoRA · Information retrieval</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/polymathicX/Agun-Panjika"><img src="assets/projects/agun-panjika.webp" width="100%" alt="Agun Panjika Bangladesh fire-history project preview" /></a>
-      <h3><a href="https://github.com/polymathicX/Agun-Panjika">🔥 Agun Panjika</a></h3>
-      <p>One fire history across sensors and seasons for Bangladesh. Harmonising MODIS and VIIRS observations into a bilingual fire calendar and early-warning outlook for NASA Space Apps 2026.</p>
-      <p><sub>Python · React · D3 · Three.js · NASA FIRMS</sub></p>
-    </td>
-  </tr>
-</table>
+A bilingual healthcare platform for Bangladesh, studying how deterministic consent and policy boundaries can govern assistive AI.
 
-Also in orbit: [**Jagoo Bahee**](https://github.com/tasmirz/jagoo-bahee), a community platform designed to keep working through an internet blackout, and [**Interlink**](https://github.com/Logarithm-Studio/Interlink-backend), an AI agent for everyday and professional workflows.
+**Also on the research track:** submissions under review at **ICRA 2027** and **ICCIT 2027**, and an **IHCI 2026 poster paper**.
 
-[Explore the full project catalogue →](https://portfolio-v2-sarwad.vercel.app/#projects)
+### Current research
+
+- **GPU & efficient AI:** CUDA, sparse and tensor computation, model compression, and parameter-efficient fine-tuning.
+- **ICASSP 2027 FLAG Challenge:** cross-lingual face-voice verification, with architecture and gradient parity checks for a reproducible FOP baseline.
+- **Vision Transformer explainability:** extending F2HF's FFN-weighted attention-head filtering toward a journal paper.
+- **DriftRisk-LoRA:** my undergraduate thesis on drift-aware financial risk modelling with market data and macro-text.
+
+[Google Scholar](https://scholar.google.com/citations?user=l_J2QaYAAAAJ&hl=en) &nbsp; · &nbsp; [Research details](https://portfolio-v2-sarwad.vercel.app/#research) &nbsp; · &nbsp; [CV](https://portfolio-v2-sarwad.vercel.app/Sarwad-Hasan-Siddiqui-CV.pdf)
+
+## Honors & achievements
+
+<p align="center">
+  <img src="assets/honors.svg" width="100%" alt="Selected competition honors: international 1st runner-up at Bridging Engineering and Computer Science 2025, runners-up at July Hackathon 2026, and 3rd place at Nascenia AI Hackathon 2026" />
+</p>
+
+| Recognition | Competition / institution | Year |
+| :--- | :--- | :--- |
+| **International 1st runner-up** | Bridging Engineering & Computer Science · ILM AI Ltd. and City, St George's, University of London · Team Kuet_Kobe_Khulbe | 2025 |
+| **Runners-up** | July Hackathon · Team Protidhwoni · Censorship-resistant communication | 2026 |
+| **3rd place** | Nascenia AI Hackathon · Bengali medical dialogue generation | 2026 |
+| **Dean's List** | KUET · First and second year | 2025, 2026 |
+| **Dean's Award** | KUET · First year | 2025 |
+| **Finalist** | Blockchain Olympiad Bangladesh · Team Logarithm | 2026 |
+| **3rd runner-up** | Case Crack 2.0 · KUET Business & Entrepreneurship Club | 2025 |
+| **2nd place** | Spark Fusion 2K21 · Hardware design | 2021 |
+
+**B.Sc. in CSE, KUET · 2023–2027 · CGPA: 3.78 / 4.00**
+
+[More about my honors and background](https://portfolio-v2-sarwad.vercel.app/#honors)
 
 ## 🌈 My tech universe
 
@@ -106,24 +108,13 @@ Also in orbit: [**Jagoo Bahee**](https://github.com/tasmirz/jagoo-bahee), a comm
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-<details>
-<summary><strong>A few milestones along the way</strong></summary>
-
-- **Research:** co-author of work published at IEEE RO-MAN 2026 on layered knowledge construction for multi-robot search and rescue; further robotics work under review at ICRA 2027.
-- **July Hackathon 2026:** runners-up with Team Protidhwoni for Jagoo Bahee.
-- **Nascenia AI Hackathon 2026:** 3rd place for Bengali medical dialogue generation.
-- **Bridging Engineering & Computer Science 2025:** international 1st runner-up with Team Kuet_Kobe_Khulbe for ParaBounce.
-- **KUET:** CGPA 3.78 / 4.00, Dean's List in both first and second year, and a first-year Dean's Award.
-
-</details>
-
 ## 🎧 Outside the code
 
 I help organise **TEDxKUET** and serve as **Secretary of PR at the KUET Business & Entrepreneurship Club**. Building things also means getting people in a room and making an idea happen together.
 
 Away from the workbench: [music on Spotify](https://open.spotify.com/user/226r66vnosa7atjaky5tu6niy), [Instagram](https://www.instagram.com/pianto._/), and the occasional [post on X](https://x.com/Shspianto).
 
-## 📊 GitHub, but make it neon
+## 📊 GitHub activity
 
 <p align="center">
   <a href="https://github.com/polymathicX">

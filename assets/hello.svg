@@ -1,32 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" role="img" aria-labelledby="title desc">
-  <title id="title">Hey, I'm Sarwad Hasan Siddiqui!</title>
-  <desc id="desc">AI systems researcher, GPU explorer, space enthusiast, and forever learner.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-labelledby="title desc">
+  <title id="title">Sarwad Hasan Siddiqui</title>
+  <desc id="desc">AI systems research and engineering. GPU computing, efficient AI, and computer vision. Khulna, Bangladesh.</desc>
   <defs>
-    <linearGradient id="spectrum" x1="0" x2="1">
-      <stop stop-color="#ff6bcb"/><stop offset=".35" stop-color="#c084fc"/><stop offset=".68" stop-color="#22d3ee"/><stop offset="1" stop-color="#34d399"/>
-    </linearGradient>
-    <radialGradient id="nebula"><stop stop-color="#442063" stop-opacity=".65"/><stop offset="1" stop-color="#171022" stop-opacity="0"/></radialGradient>
+    <linearGradient id="edge" x1="40" y1="0" x2="960" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#7dd3fc"/><stop offset="1" stop-color="#a78bfa" stop-opacity=".15"/></linearGradient>
   </defs>
-  <style>
-    .role {font:500 21px 'Segoe UI',Arial,sans-serif;fill:#e8d9ff;opacity:0;animation:roles 16s infinite}
-    .r2{animation-delay:4s}.r3{animation-delay:8s}.r4{animation-delay:12s}
-    @keyframes roles{0%,22%{opacity:1}25%,100%{opacity:0}}
-    .spark{animation:twinkle 3s ease-in-out infinite alternate}
-    @keyframes twinkle{to{opacity:.3}}
-    @media(prefers-reduced-motion:reduce){.role,.spark{animation:none}.r1{opacity:1}}
-  </style>
-  <rect x="1" y="1" width="998" height="208" rx="24" fill="#171022" stroke="#5e347b"/>
-  <ellipse cx="500" cy="110" rx="440" ry="130" fill="url(#nebula)"/>
-  <path d="M64 1H936" stroke="url(#spectrum)" stroke-width="3"/>
-  <g class="spark" fill="#fbbf24"><path d="m70 58 3 8 8 3-8 3-3 8-3-8-8-3 8-3Z"/><path d="m918 125 3 8 8 3-8 3-3 8-3-8-8-3 8-3Z"/></g>
-  <g fill="#c084fc"><circle cx="105" cy="150" r="3"/><circle cx="891" cy="53" r="3"/></g>
-  <text x="500" y="42" text-anchor="middle" fill="#ff91d8" font-family="'Courier New',monospace" font-size="13" letter-spacing="4">@POLYMATHICX / ENGINEERING STUDENT, FOREVER LEARNER</text>
-  <text x="500" y="99" text-anchor="middle" fill="url(#spectrum)" font-family="'Segoe UI',Arial,sans-serif" font-size="43" font-weight="750">Hey, I'm Sarwad Hasan Siddiqui!</text>
-  <g text-anchor="middle">
-    <text class="role r1" x="500" y="144">AI systems researcher / making intelligence practical to run</text>
-    <text class="role r2" x="500" y="144">GPU computing / CUDA / a little closer to the metal</text>
-    <text class="role r3" x="500" y="144">Space enthusiast / from a solar system to a Mars rover</text>
-    <text class="role r4" x="500" y="144">Building things, breaking things, learning along the way</text>
-  </g>
-  <text x="500" y="183" text-anchor="middle" fill="#34d399" font-family="'Courier New',monospace" font-size="13" letter-spacing="2">KHULNA, BANGLADESH · CSE @ KUET · OPEN TO COLLABORATE</text>
+  <rect x="1" y="1" width="998" height="228" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <path d="M40 1H960" stroke="url(#edge)" stroke-width="2"/>
+  <text x="44" y="48" fill="#9caac0" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="3">AI SYSTEMS RESEARCH &amp; ENGINEERING</text>
+  <text x="40" y="112" fill="#f0f3f8" font-family="Georgia,'Times New Roman',serif" font-size="53" letter-spacing="-1.3">Sarwad Hasan Siddiqui</text>
+  <text x="44" y="151" fill="#bdc7d6" font-family="'Segoe UI',Arial,sans-serif" font-size="18">GPU computing. Efficient AI. Computer vision.</text>
+  <path d="M44 177H956" stroke="#30363d"/>
+  <text x="44" y="205" fill="#7dd3fc" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="500" letter-spacing="1.2">CSE @ KUET</text>
+  <text x="956" y="205" text-anchor="end" fill="#9caac0" font-family="'Segoe UI',Arial,sans-serif" font-size="12" letter-spacing="1.2">KHULNA, BANGLADESH · @POLYMATHICX</text>
 </svg>
