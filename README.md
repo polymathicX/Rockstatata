@@ -39,7 +39,7 @@ I care about research that can be measured and reproduced: smaller models, faste
 <p>
   <img src="https://img.shields.io/badge/Published-2-34d399?style=for-the-badge&labelColor=18122b" alt="2 published papers" />
   <img src="https://img.shields.io/badge/Under_review-2-a78bfa?style=for-the-badge&labelColor=18122b" alt="2 submissions under review" />
-  <img src="https://img.shields.io/badge/Poster-1-22d3ee?style=for-the-badge&labelColor=18122b" alt="1 poster paper" />
+  <img src="https://img.shields.io/badge/Poster-2-22d3ee?style=for-the-badge&labelColor=18122b" alt="2 poster papers" />
 </p>
 
 ### Selected publications
@@ -53,6 +53,11 @@ Parameter-efficient fine-tuning, layered local/global reasoning, and human feedb
 *Journal · 2026 · Published*
 
 A bilingual healthcare platform for Bangladesh, studying how deterministic consent and policy boundaries can govern assistive AI.
+
+**Describe-to-Decide: Machine-to-Machine Learning via Geo-Spatial Knowledge Sharing and Change Inference for Multi-Robot SAR**<br />
+*IHCI 2026 · Poster*
+
+Geo-spatial knowledge sharing and change inference for multi-robot search and rescue.
 
 **Also on the research track:** submissions under review at **ICRA 2027** and **ICCIT 2027**, and an **IHCI 2026 poster paper**.
 
