@@ -55,11 +55,11 @@ Parameter-efficient fine-tuning, layered local/global reasoning, and human feedb
 A bilingual healthcare platform for Bangladesh, studying how deterministic consent and policy boundaries can govern assistive AI.
 
 **Describe-to-Decide: Machine-to-Machine Learning via Geo-Spatial Knowledge Sharing and Change Inference for Multi-Robot SAR**<br />
-*IHCI 2026 · Poster*
+*IHCI 2026 · Published poster*
 
 Geo-spatial knowledge sharing and change inference for multi-robot search and rescue.
 
-**Also on the research track:** submissions under review at **ICRA 2027** and **ICCIT 2027**, and an **IHCI 2026 poster paper**.
+**Also on the research track:** submissions under review at **ICRA 2027** and **ICCIT 2027**.
 
 ### Current research
 
